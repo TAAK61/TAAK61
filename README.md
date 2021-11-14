@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TAAK61
+- 👋 Hi, I’m TOURE Kiame @TAAK61 on github
 - 👀 I’m interested in computer science and all new IT topics.
 - 🌱 I’m currently learning web and mobile developpement , pentesting and data science 
 - 💞️ I’m looking to collaborate on all interest project in computer science particulary all new topic like ( AI , VR & AR and DATA science)
